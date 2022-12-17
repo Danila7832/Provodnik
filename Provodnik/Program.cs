@@ -55,14 +55,7 @@ namespace Provodnik
                         Console.Clear();
                     }
                 }
-
-
             }
-
-
-
-
-
         }
     }
 }
